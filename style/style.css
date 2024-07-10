@@ -1,3 +1,7 @@
+@import url('https://f...content-available-to-author-only...s.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 .alif{
     background-image: url(../B10A1-Challenge-Begins-main/assets/Hero-bg.png);
 }
@@ -26,9 +30,9 @@ padding: 0 150px;
     margin-bottom: 120px;
 }
 .btn{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
 .box{
     width: 1140px;
@@ -44,4 +48,79 @@ padding: 0 150px;
 }
 .bb{
     margin-right: 95px;
+}
+.btn-primary{
+    width: 145px;
+height: 44px;
+font-weight: 600;
+font-size: 20px;
+color: rgb(13, 19, 33);
+}
+.bb2{
+
+    
+    width: 145.52px;
+    height: 148.66px;
+    left: 0.65%;
+    right: -0.65%;
+    top: 48.43%;
+    bottom: -48.43%;  
+}
+.bb3{
+    display: flex;
+    justify-content: center;
+    margin: 50px 150px;
+}
+.third-box{
+
+   
+}
+.btn-2{
+width: 145px;
+height: 44px;
+font-weight: 600;
+font-size: 20px;
+color: rgb(13, 19, 33);
+}
+.image-4{
+    position: static;
+width: 240px;
+height: 240px;
+}
+.ins{
+text-align: center;
+margin:50px 100px;
+
+}
+.ins-1{
+    text-align: center;
+    font-size: 30px;
+}
+   
+
+.video-sec{
+    display: flex;
+    justify-content: center;
+}
+.vse-1{
+    margin-bottom: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.vse-2{
+    border-radius: 16px;
+    padding: 20px;
+    background: rgba(red, green, blue, alpha);
+}
+.line{
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    color: rgb(13, 19, 33);
+}
+.ves-3{
+    border-radius: 16px;
+    padding: 20px;
+    background: rgba(red, green, blue, alpha);
+
 }
